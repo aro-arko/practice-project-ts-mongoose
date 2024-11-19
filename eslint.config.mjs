@@ -16,8 +16,8 @@ export default [
       'prefer-const': 'error',
       'no-console': 'warn',
     },
-    globals: {
-      process: 'readonly',
-    },
+    // globals: {
+    //   process: 'readonly',
+    // },
   },
 ];
